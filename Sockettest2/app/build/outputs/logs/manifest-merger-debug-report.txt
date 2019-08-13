@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\e69f5d3dbc50eb7999290e1547a86607\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f7a2ec1bcb829cb086297371a5a66ea9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\c8aaae58168c9ca6f149ad5ad44302bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\fc50a199b0338ad532c0355a1e15f39a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a760e698160cc439e7b61ebaf10c2172\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\3afff9faa11198dee4b2c766041caf35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\aae1bb9e382c06f97ff81d2b93764638\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\7f964db88d8ba115acf21f04ed8585b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\cd099fb74550401c4baf2b114d0be7f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\3336c7dce05bf4580b57848287f32ebd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1c822db151c7da90ddc2715b0a532086\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1b435dc5e139270d46bc702a6ce0756a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\6bf273154210ad208c1e870cc4038f33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a5ae9cdde023e7beaf0017d34dd1f78c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\cb9375f23a14ca4482a99a39b682c47b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1ba09982de4a9c88b919418bf06c427a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\6af06960cc8e39f5790cbe15b8ec19b9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f2820134cd920b61828b9324002c0642\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a5716bf6b5e17cbb783c14f9966f5474\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\b3aebed074ca76d5c082add5020c5383\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f37ccfffbe0f9c2f4f36a4b6440ea579\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\c7ed6ca3dbc7eee9ff15117433c654e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\49e740ad3f834c405f8a643bc83931db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\4170cbd226ed30902ebd5690caca9300\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\7ee6bd5081078ea7fc5326a12dc4c53d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\399a69446192f002323be7f4a2dda705\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\ca164ba99fb8af49353559ebd0fecb56\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f7a2ec1bcb829cb086297371a5a66ea9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f7a2ec1bcb829cb086297371a5a66ea9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1ba09982de4a9c88b919418bf06c427a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1ba09982de4a9c88b919418bf06c427a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\6af06960cc8e39f5790cbe15b8ec19b9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\6af06960cc8e39f5790cbe15b8ec19b9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1ba09982de4a9c88b919418bf06c427a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.sockettest2.MainActivity
+ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\e69f5d3dbc50eb7999290e1547a86607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\e69f5d3dbc50eb7999290e1547a86607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f7a2ec1bcb829cb086297371a5a66ea9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f7a2ec1bcb829cb086297371a5a66ea9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\c8aaae58168c9ca6f149ad5ad44302bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\c8aaae58168c9ca6f149ad5ad44302bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\fc50a199b0338ad532c0355a1e15f39a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\fc50a199b0338ad532c0355a1e15f39a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a760e698160cc439e7b61ebaf10c2172\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a760e698160cc439e7b61ebaf10c2172\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\3afff9faa11198dee4b2c766041caf35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\3afff9faa11198dee4b2c766041caf35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\aae1bb9e382c06f97ff81d2b93764638\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\aae1bb9e382c06f97ff81d2b93764638\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\7f964db88d8ba115acf21f04ed8585b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\7f964db88d8ba115acf21f04ed8585b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\cd099fb74550401c4baf2b114d0be7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\cd099fb74550401c4baf2b114d0be7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\3336c7dce05bf4580b57848287f32ebd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\3336c7dce05bf4580b57848287f32ebd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1c822db151c7da90ddc2715b0a532086\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1c822db151c7da90ddc2715b0a532086\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1b435dc5e139270d46bc702a6ce0756a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1b435dc5e139270d46bc702a6ce0756a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\6bf273154210ad208c1e870cc4038f33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\6bf273154210ad208c1e870cc4038f33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a5ae9cdde023e7beaf0017d34dd1f78c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a5ae9cdde023e7beaf0017d34dd1f78c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\cb9375f23a14ca4482a99a39b682c47b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\cb9375f23a14ca4482a99a39b682c47b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1ba09982de4a9c88b919418bf06c427a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\1ba09982de4a9c88b919418bf06c427a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\6af06960cc8e39f5790cbe15b8ec19b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\6af06960cc8e39f5790cbe15b8ec19b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f2820134cd920b61828b9324002c0642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f2820134cd920b61828b9324002c0642\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a5716bf6b5e17cbb783c14f9966f5474\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\a5716bf6b5e17cbb783c14f9966f5474\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\b3aebed074ca76d5c082add5020c5383\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\b3aebed074ca76d5c082add5020c5383\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f37ccfffbe0f9c2f4f36a4b6440ea579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\f37ccfffbe0f9c2f4f36a4b6440ea579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\c7ed6ca3dbc7eee9ff15117433c654e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\c7ed6ca3dbc7eee9ff15117433c654e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\49e740ad3f834c405f8a643bc83931db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\49e740ad3f834c405f8a643bc83931db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\4170cbd226ed30902ebd5690caca9300\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\4170cbd226ed30902ebd5690caca9300\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\7ee6bd5081078ea7fc5326a12dc4c53d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\7ee6bd5081078ea7fc5326a12dc4c53d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\399a69446192f002323be7f4a2dda705\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\399a69446192f002323be7f4a2dda705\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\ca164ba99fb8af49353559ebd0fecb56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ARA\.gradle\caches\transforms-2\files-2.1\ca164ba99fb8af49353559ebd0fecb56\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ARA\Documents\GitHub\ChocoChatbot\Sockettest2\app\src\main\AndroidManifest.xml
